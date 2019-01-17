@@ -26,5 +26,5 @@ Conclusion.
 
 Throughout this project, a knee brace that uses accelerometers to track acceleration throughout exercise was developed. Then a software program translating acceleration to torque was designed by integrating physics into algorithms. This program has the ability to accurately determine the amount of knee abduction from the acceleration in a controlled environment. This program can effectively show athletes their risk of ACL injury. By identifying this risk, athletes will be able to implement preventative measures into their training, and further reduce the possibility of the ACL injury. In addition, this program has the potential to predict other knee issues that are indicated by knee abduction, including patellofemoral pain. 
 
-# Further Research.
+Further Research.
 1. Reduce potential error by using a geometrical figure that more accurately represents the shape of the limb from the knee to the ankle. 2. Using two centers of mass to more accurately represent the motion of torque. 3. Implementation of this knee brace into gameplay.
